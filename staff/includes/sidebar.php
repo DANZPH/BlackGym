@@ -11,8 +11,8 @@
       </ul>
     </li>
 
-   <!-- <li class="<?php if($page=='equipment'){ echo 'submenu active'; } else { echo 'submenu';}?>"> <a href="#"><i class="icon icon-cogs"></i> <span>Gym Equipment</span> </a>
-      <ul>
+   <li class="<?php if($page=='equipment'){ echo 'submenu active'; } else { echo 'submenu';}?>"> <a href="#"><i class="icon icon-cogs"></i> <span>Gym Equipment</span> </a>
+      <!-- <ul>
         <li><a href="equipment.php">List Gym Equipment</a></li>
         <li><a href="equipment-entry.php">Add Equipment</a></li>
         <li><a href="remove-equipment.php">Remove Equipment</a></li>
